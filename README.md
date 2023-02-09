@@ -8,7 +8,7 @@ Programar una aplicación en React con las siguientes funcionalidades.
 
 ## Display
 
-- Pintar los números que se marcan.
+- Pintar los números que se vayan marcando.
 
 ## Actions
 
@@ -22,4 +22,4 @@ Programar una aplicación en React con las siguientes funcionalidades.
 
 ### Key
 
-- Pintar cada uno de los botones de los números y el de borrar.
+- Pintar cada uno de los botones de los números, el de llamar, el de colgar y el de borrar números.
